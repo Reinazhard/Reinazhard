@@ -1,16 +1,13 @@
-### Hi there 👋
+### =+= Hello there 👋 =+=
 
-<!--
-**Reinazhard/Reinazhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ZilonT Kernel For Whyred
+- 🌱 I’m currently learning Android Kernel Development & Python
+- 🎯 Current Objective: Survive
+- 🤔 I’m looking for help with how to prevent suicide
+- 💬 Ask me about meme
+- 📫 You can reach me on Telegram as [Reina🍈](https://t.me/eve_enryu)
+- ⚡ Fun fact: I can't make a friendship
 
-Here are some ideas to get you started:
+Still thinking what's thing to add here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### =+=+=+=+=+=+=+=+=+=
