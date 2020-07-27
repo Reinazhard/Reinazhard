@@ -1,7 +1,7 @@
 ### =+= Hello there 👋 =+=
 
 ![logo](https://github.com/Reinazhard/Reinazhard/raw/master/Skadi_best_girl.jpg)
-- 🔭 I’m currently working on ZilonT Kernel For Whyred
+- 🔭 I’m currently working on SiLonT Kernel For Whyred
 - 🌱 I’m currently learning Android Kernel Development & Python
 - 🎯 Current Objective: Survive
 - 🤔 I’m looking for help with how to prevent suicide
