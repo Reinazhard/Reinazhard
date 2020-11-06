@@ -13,7 +13,7 @@
 
 ![Reinazhard's github](https://github-readme-stats.vercel.app/api?username=Reinazhard&show_icons=true&hide_border=true)
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Reinazhard)
 
 
 Still thinking what's thing to add here
