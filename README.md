@@ -13,6 +13,7 @@
 
 ![Reinazhard's github](https://github-readme-stats.vercel.app/api?username=Reinazhard&show_icons=true&hide_border=true)
 
+<p align="left"><strong>Romusha</strong> on :</p>
 <p align="left"><a href="https://github.com/silont-project/android_kernel_xiaomi_sdm660"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiLonT-Project&repo=android_kernel_xiaomi_sdm660&show_owner=false"></a></p>
 
 
