@@ -10,13 +10,10 @@
 
 ### =+= STATS =+=
 
-![Reinazhard's github](https://github-readme-stats.vercel.app/api?username=Reinazhard&show_icons=true&hide_border=true)
+![Reinazhard's github](https://github-readme-stats.vercel.app/api?username=Reinazhard&show_icons=true&hide_border=true&theme=dracula)
 
 <p align="left">Romusha on :</p>
-<p align="left"><a href="https://github.com/silont-project/android_kernel_xiaomi_sdm660"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiLonT-Project&repo=android_kernel_xiaomi_sdm660&hide_border=true&show_owner=false"></a></p>
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Reinazhard)
+<p align="left"><a href="https://github.com/silont-project/android_kernel_xiaomi_sdm660"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SiLonT-Project&repo=android_kernel_xiaomi_sdm660&hide_border=true&show_owner=false&theme=dracula"></a></p>
 
 
 Still thinking what's thing to add here
