@@ -66,8 +66,8 @@ Here are some of my notable projects:
 
 ## 📫 Let's Connect  
 
-- 💼 [LinkedIn](https://linkedin.com/in/reinazhard)  
-- ✈️ [Telegram](https://twitter.com/eve_enryu)  
+- 💼 [LinkedIn](https://linkedin.com/in/aalfarozi)  
+- ✈️ [Telegram](https://t.me/eve_enryu)  
 
 ---
 
