@@ -19,14 +19,15 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=gnu&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-GNU%20Make-6D00CC?style=flat&logo=gnu-make&logoColor=white" alt="GNU Make" />
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white" alt="CircleCI" />
   <img src="https://img.shields.io/badge/-TravisCI-3EAAAF?style=flat&logo=travis-ci&logoColor=white" alt="TravisCI" />
   <img src="https://img.shields.io/badge/-DroneCI-212121?style=flat&logo=drone&logoColor=white" alt="DroneCI" />
@@ -56,10 +57,10 @@ Here are some of my notable projects:
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=android_kernel_xiaomi_whyred&theme=dark" />
 </a>
 
-### [Google Pixel 6 Kernel](https://github.com/Reinazhard/crispy-goggles)  
+### [Google Pixel 6 Kernel](https://github.com/Reinazhard/guacamole_sickness)  
 
-<a href="https://github.com/Reinazhard/crispy-goggles">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=crispy-goggles&theme=dark" />
+<a href="https://github.com/Reinazhard/guacamole_sickness">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=guacamole_sickness&theme=dark" />
 </a>
 
 ---
