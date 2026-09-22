@@ -29,29 +29,40 @@
 
 ## 🌟 Projects
 
-### [Redmi Note 5 Pro Kernel](https://github.com/Reinazhard/android_kernel_xiaomi_whyred)
-
-<a href="https://github.com/Reinazhard/android_kernel_xiaomi_whyred">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=android_kernel_xiaomi_whyred&theme=dark" />
-</a>
-
-### [Whyred Device Tree (LineageOS)](https://github.com/Reinazhard/device_xiaomI_whyred)
-
-<a href="https://github.com/Reinazhard/device_xiaomI_whyred">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=device_xiaomI_whyred&theme=dark" />
-</a>
-
-### [Bouquet Device Tree](https://github.com/AOSP-bouquet/platform_device_xiaomi_bouquet)
-
-<a href="https://github.com/AOSP-bouquet/platform_device_xiaomi_bouquet">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=AOSP-bouquet&repo=platform_device_xiaomi_bouquet&theme=dark" />
-</a>
-
-### [Google Pixel 6 Kernel](https://github.com/Reinazhard/guacamole_sickness)
-
-<a href="https://github.com/Reinazhard/guacamole_sickness">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=guacamole_sickness&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Reinazhard/android_kernel_xiaomi_whyred"><b>Redmi Note 5 Pro Kernel</b></a>
+      <br />
+      <a href="https://github.com/Reinazhard/android_kernel_xiaomi_whyred">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=android_kernel_xiaomi_whyred&theme=dark" alt="android_kernel_xiaomi_whyred" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Reinazhard/device_xiaomI_whyred"><b>Whyred Device Tree (LineageOS)</b></a>
+      <br />
+      <a href="https://github.com/Reinazhard/device_xiaomI_whyred">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=device_xiaomI_whyred&theme=dark" alt="device_xiaomI_whyred" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/AOSP-bouquet/platform_device_xiaomi_bouquet"><b>Bouquet Device Tree</b></a>
+      <br />
+      <a href="https://github.com/AOSP-bouquet/platform_device_xiaomi_bouquet">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=AOSP-bouquet&repo=platform_device_xiaomi_bouquet&theme=dark" alt="platform_device_xiaomi_bouquet" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Reinazhard/guacamole_sickness"><b>Google Pixel 6 Kernel</b></a>
+      <br />
+      <a href="https://github.com/Reinazhard/guacamole_sickness">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=guacamole_sickness&theme=dark" alt="guacamole_sickness" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Let's Connect
 
