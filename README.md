@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hi there! I'm Reinazhard 👋</h1>
-  <p>A passionate tech enthusiast & open-source advocate from Indonesia</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=1200&color=3DDC84&center=true&v=3&lines=Hi+there%21+I%27m+Reinazhard;Systems+enthusiast+%26+open-source+advocate" alt="Typing SVG" />
+  <p><code>$ echo "from Indonesia · kernels · toolchains · open source"</code></p>
+  <img src="https://komarev.com/ghpvc/?username=Reinazhard&color=brightgreen&style=flat" alt="Profile views" />
 </div>
 
 ---
@@ -44,6 +45,17 @@
 <a href="https://github.com/Reinazhard?tab=repositories">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Reinazhard&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
+<a href="https://github.com/Reinazhard">
+  <img height=195 align="center" src="https://streak-stats.demolab.com/?user=Reinazhard&theme=dark&hide_border=true" alt="GitHub streak" />
+</a>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
