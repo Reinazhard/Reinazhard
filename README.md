@@ -38,10 +38,10 @@
 ## 📈 GitHub Stats  
 
 <a href="https://github.com/Reinazhard">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Reinazhard&theme=dark" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=Reinazhard&theme=dark" />
 </a>
 <a href="https://github.com/Reinazhard?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reinazhard&layout=compact&theme=dark&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Reinazhard&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
 ---
@@ -53,13 +53,13 @@ Here are some of my notable projects:
 ### [Redmi Note 5 Pro Kernel](https://github.com/Reinazhard/android_kernel_xiaomi_whyred)  
 
 <a href="https://github.com/Reinazhard/android_kernel_xiaomi_whyred">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reinazhard&repo=android_kernel_xiaomi_whyred&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=android_kernel_xiaomi_whyred&theme=dark" />
 </a>
 
 ### [Google Pixel 6 Kernel](https://github.com/Reinazhard/crispy-goggles)  
 
 <a href="https://github.com/Reinazhard/crispy-goggles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reinazhard&repo=crispy-goggles&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=crispy-goggles&theme=dark" />
 </a>
 
 ---
