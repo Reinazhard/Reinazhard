@@ -1,19 +1,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=1200&color=3DDC84&center=true&v=3&lines=Hi+there%21+I%27m+Reinazhard;Systems+enthusiast+%26+open-source+advocate" alt="Typing SVG" />
-  <p><code>$ echo "from Indonesia · kernels · toolchains · open source"</code></p>
-  <img src="https://komarev.com/ghpvc/?username=Reinazhard&color=brightgreen&style=flat" alt="Profile views" />
 </div>
 
----
+## 🚀 About Me
 
-## 🚀 About Me  
-> Systems enthusiast focused on optimization, kernel development, and innovative solutions
-- 🐧 **Linux Power User** - Arch Linux enthusiast crafting efficient workflows
-- ⚡ **Performance Optimizer** - Android Kernel & OS optimization specialist
-- 🤖 **AI/ML Explorer** - Diving into machine learning to build smarter solutions
-- ☕ **Coffee Driven** - Fueling development, one cup at a time
-
----
+- 🐧 **Linux Power User** — Arch Linux enthusiast
+- ⚡ **Performance Optimizer** — Android Kernel & OS specialist
+- 🤖 **AI/ML Explorer** — machine learning and kernel tooling
 
 ## 🔧 Tech Stack
 
@@ -34,54 +27,21 @@
   <img src="https://img.shields.io/badge/-DroneCI-212121?style=flat&logo=drone&logoColor=white" alt="DroneCI" />
 </p>
 
-
----
-
-## 📈 GitHub Stats  
-
-<a href="https://github.com/Reinazhard">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=Reinazhard&theme=dark" />
-</a>
-<a href="https://github.com/Reinazhard?tab=repositories">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Reinazhard&layout=compact&theme=dark&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/Reinazhard">
-  <img height=195 align="center" src="https://streak-stats.demolab.com/?user=Reinazhard&theme=dark&hide_border=true" alt="GitHub streak" />
-</a>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
 ## 🌟 Projects
 
-Here are some of my notable projects:
-
-### [Redmi Note 5 Pro Kernel](https://github.com/Reinazhard/android_kernel_xiaomi_whyred)  
+### [Redmi Note 5 Pro Kernel](https://github.com/Reinazhard/android_kernel_xiaomi_whyred)
 
 <a href="https://github.com/Reinazhard/android_kernel_xiaomi_whyred">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=android_kernel_xiaomi_whyred&theme=dark" />
 </a>
 
-### [Google Pixel 6 Kernel](https://github.com/Reinazhard/guacamole_sickness)  
+### [Google Pixel 6 Kernel](https://github.com/Reinazhard/guacamole_sickness)
 
 <a href="https://github.com/Reinazhard/guacamole_sickness">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Reinazhard&repo=guacamole_sickness&theme=dark" />
 </a>
 
----
+## 📫 Let's Connect
 
-## 📫 Let's Connect  
-
-- 💼 [LinkedIn](https://linkedin.com/in/aalfarozi)  
-- ✈️ [Telegram](https://t.me/eve_enryu)  
-
----
-
-> *"Crafting solutions that empower efficiency and innovation!"*
+- 💼 [LinkedIn](https://linkedin.com/in/aalfarozi)
+- ✈️ [Telegram](https://t.me/eve_enryu)
